@@ -1,0 +1,12 @@
+*.o
+*.a
+server
+client  
+rpc-client
+rpc-server
+ci-client
+ci-server
+*:*Zone.Identifier
+/hidden
+!client.a
+!server.a
