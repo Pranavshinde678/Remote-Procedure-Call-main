@@ -1,6 +1,6 @@
 ## Purpose
 Remote Procedure Call protocol  
-Project work for COMP30023 (Computer Systems) at Unimelb
+
 
 ## Patch logs
 | Commit    |Date | Note |
