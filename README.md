@@ -1,5 +1,14 @@
 ## Purpose
-Remote Procedure Call protocol  
+The purpose of this project is to implement a **Remote Procedure Call (RPC) protocol**, a communication protocol widely used to enable a program to request a service from a program located on another computer in a network. RPC is a key technique in distributed systems and networked applications, as it allows processes to communicate and execute functions as if they were running locally, making networked applications more seamless and efficient.
+
+This project aims to:
+- **Demonstrate basic RPC functionality** by establishing a client-server model where the client can call procedures (functions) on the server remotely, with the necessary arguments and data being transmitted across a network.
+- **Implement core networking components** like sockets and data serialization, which are essential for sending complex data structures and requests over a network reliably.
+- **Handle common RPC use cases** by developing a robust protocol that includes error handling, function mapping, and response processing, enabling functions to be dynamically located and executed on the server.
+- **Introduce students to distributed computing concepts** by allowing them to create, test, and debug applications that work across a network, a foundational skill in network programming and systems design.
+
+This project is an essential exercise in network programming, socket management, and distributed systems, allowing students to understand the fundamentals of remote communications in a controlled environment.
+
 
 ## File Description
 | File    | Description |
