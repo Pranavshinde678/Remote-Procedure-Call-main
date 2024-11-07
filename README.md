@@ -21,7 +21,7 @@ This project is an essential exercise in network programming, socket management,
 |server.c |a very simple rpc test server|
 |server.a client.a | advanced testing framework artifacts, the name "server/client" clashed with server.c, client.c, but they are not relevant with each other
 
-## Complie
+## Compilation
 (Notice: some complied artifacts in Makefile are for marking purpose)
 ### Main Artifacts
     make
